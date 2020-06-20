@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6828066e-a85a-4f03-8b48-4bd586f710b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="bookstore" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Z4mffjhSPBsloBg8gP7auBdmtF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\" />
+      <recent name="D:\book_store\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\book_store\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/book_store/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6828066e-a85a-4f03-8b48-4bd586f710b5" name="Default Changelist" comment="" />
+      <created>1584106844146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584106844146</updated>
+      <workItem from="1584106845799" duration="5672000" />
+      <workItem from="1584143868208" duration="2891000" />
+      <workItem from="1584712721443" duration="6334000" />
+      <workItem from="1584719585137" duration="25000" />
+      <workItem from="1585143734397" duration="441000" />
+      <workItem from="1585325424577" duration="4314000" />
+      <workItem from="1585408825339" duration="2392000" />
+      <workItem from="1585754575329" duration="1930000" />
+      <workItem from="1585756529922" duration="799000" />
+      <workItem from="1585820651486" duration="7150000" />
+      <workItem from="1585905065881" duration="2027000" />
+      <workItem from="1586508450744" duration="10587000" />
+      <workItem from="1587120709783" duration="7246000" />
+      <workItem from="1589183976919" duration="1284000" />
+      <workItem from="1589185342469" duration="3999000" />
+      <workItem from="1589199735081" duration="1212000" />
+      <workItem from="1589216610952" duration="12000" />
+      <workItem from="1589299800042" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="159" y="196" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587131805653">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="159" y="196" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1368.872@0.0.1368.872" timestamp="1587131805653" />
+    <state x="397" y="115" key="FileChooserDialogImpl" timestamp="1589185231206">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="397" y="115" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589185231206" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1584108853991">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1584108853991" />
+    <state x="267" y="4" width="840" height="1034" key="search.everywhere.popup" timestamp="1589185957711">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="267" y="4" width="840" height="1034" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1589185957711" />
+    <state x="398" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1589191708775">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="398" y="323" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1368.872@0.0.1368.872" timestamp="1589191708775" />
+  </component>
+</project>
